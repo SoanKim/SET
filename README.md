@@ -14,5 +14,5 @@ scipy</br>
 ipykernel</br>
 
 ### Future Work</br>
-Feed the context in pixel</br>
-Implementing [inverse propensity score](https://arxiv.org/pdf/1103.4601.pdf)
+* Feed the context in pixel</br>
+* Implementing [inverse propensity score](https://arxiv.org/pdf/1103.4601.pdf)
