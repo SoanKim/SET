@@ -6,10 +6,13 @@ After observing the three cards with four features, the agent come to judge whet
 ![alt text](https://github.com/SoanKim/SET/blob/main/result.png)
 
 ### Requirements</br></br>
-
 matplotlib</br>
 numpy>=1.11.0</br>
 torch==0.4.0</br>
 pandas</br>
 scipy</br>
 ipykernel</br>
+
+### Future Work</br></br>
+Feed cards in pixels</br>
+Implementing [inverse propensity score](https://arxiv.org/pdf/1103.4601.pdf)
