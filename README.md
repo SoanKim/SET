@@ -1,7 +1,7 @@
 # SET
 DQN with context bandit task (thanks to kind advice from [@geraudnt.](https://github.com/geraudnt?tab=overview&from=2018-12-01&to=2018-12-31)</br>
 
-This is the DQN network training with context bandit environment with the board game, SET.
+My project used a DQN network training with context bandit environment with the board game, SET.
 After observing the three cards with four features, the agent come to judge whether they are valid sets or not. </br></br>
 ![alt text](https://github.com/SoanKim/SET/blob/main/result.png)
 
